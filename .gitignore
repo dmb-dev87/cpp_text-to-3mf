@@ -1,6 +1,7 @@
 /Debug
 /Release
 /x64
+/.vs
 
 # Prerequisites
 *.d
