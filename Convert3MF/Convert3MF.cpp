@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <algorithm>
 #include <fstream>
-#include "include/NMR_DLLInterfaces.h"
+#include "NMR_DLLInterfaces.h"
 using namespace NMR;
 using namespace std;
 

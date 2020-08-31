@@ -75,10 +75,10 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <ExecutablePath>F:\C++\Convert3MF\Convert3MF\Lib;$(ExecutablePath)</ExecutablePath>
-    <ReferencePath>F:\C++\Convert3MF\Convert3MF\Lib;$(ReferencePath)</ReferencePath>
-    <LibraryPath>F:\C++\Convert3MF\Convert3MF\Lib;$(LibraryPath)</LibraryPath>
-    <IncludePath>F:\C++\Convert3MF\Convert3MF\Include;$(IncludePath)</IncludePath>
+    <ExecutablePath>E:\05_Work\H024_Convert3MF\Convert3MF\Lib;$(ExecutablePath)</ExecutablePath>
+    <ReferencePath>E:\05_Work\H024_Convert3MF\Convert3MF\Lib;$(ReferencePath)</ReferencePath>
+    <LibraryPath>E:\05_Work\H024_Convert3MF\Convert3MF\Lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>E:\05_Work\H024_Convert3MF\Convert3MF\Include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
